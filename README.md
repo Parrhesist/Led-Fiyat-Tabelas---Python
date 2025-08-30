@@ -80,7 +80,9 @@ Herhangi bir sorun yaşarsanız, lütfen [GitHub Issues](https://github.com/Parr
 
 ## Ekran Görüntüleri
 
-![Uygulama Görünümü](screenshots/app_screenshot.png)
+![Uygulama Görünümü](screenshots/2025-08-30_21-58-19.png)
+
+*Uygulama çalışır durumda - LED tabela formatında altın fiyatları görüntüleniyor*
 
 ---
 
